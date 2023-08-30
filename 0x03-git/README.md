@@ -1,1 +1,1 @@
-Readme of directory
+edited from github
